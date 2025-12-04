@@ -30,7 +30,7 @@ Practice theme built from Underscores, exploring templates and responsive layout
 As an Apprentice Web Developer at **Mediaworks**, I worked on:
 - Custom WordPress themes and ACF blocks  
 - PHP/Twig component systems  
-- Distributor locator map (JavaScript, geolocation, AJAX)  
+- DCC Propane distributor locator map (JavaScript, geolocation, AJAX)  
 - SCSS/Tailwind styling  
 
 
