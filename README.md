@@ -8,7 +8,7 @@ I'm currently seeking a **Junior Full-Stack Developer** role and an employer to 
 ## 🧰 Tech I Use
 **Languages:** Python, JavaScript, PHP, SQL  
 **Frameworks:** Django, WordPress, Underscores  
-**Tools:** Docker, Git, pytest, PostgreSQL, MySQL, SQLite  
+**Tools:** Docker, Git, pytest, PostgreSQL, MySQL, SQLite, Jira, FileZilla, cPanel, WP Engine, Render  
 **Areas:** Full-stack web development, authentication, CRUD systems, database design, DevOps basics
 
 ---
