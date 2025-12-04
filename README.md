@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Isaac — Junior Software Developer (Full-Stack)
 
 I build full-stack applications using **Python, Django, JavaScript, SQL, and Docker**.  
-I'm currently seeking a **Junior Full-Stack Developer** role and an employer to continue my **Level 6 DTS degree apprenticeship**.
+I'm currently seeking a **Junior Full-Stack Developer** role and an employer to continue my **Level 6 Digital Technology Solutions degree apprenticeship**.
 
 ## 🧰 Tech I Use
 **Languages:** Python, JavaScript, PHP, SQL  
