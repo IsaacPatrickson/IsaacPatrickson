@@ -12,15 +12,15 @@ I'm currently seeking a **Junior Full-Stack Developer** role and an employer to 
 ## 🛠️ Featured Projects
 **Client Request Management System** — Django, Docker, PostgreSQL  
 Full-stack request tracking system with role-based access, testing, and containerised dev environment.  
-➡️ https://github.com/IsaacPatrickson/Client-Request-Management-System
+➡️ https://github.com/IsaacPatrickson/client-request-management-system
 
 **Client Information Management System** — Python, OOP, SQLite, pytest  
 CRUD client management tool built using OOP principles and automated tests.  
-➡️ https://github.com/IsaacPatrickson/Client-Information-Management-System
+➡️ https://github.com/IsaacPatrickson/client-information-management-system
 
 **QuizEngine** — Python, MySQL  
 Quiz system using OOP, secure hashing, and relational DB design.  
-➡️ https://github.com/IsaacPatrickson/Kahoot-Clone-Quiz-Game
+➡️ https://github.com/IsaacPatrickson/quiz-engine
 
 **WordPress Restaurant Theme** — Custom WordPress theme  
 Practice theme built from Underscores, exploring templates and responsive layout.  
