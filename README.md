@@ -2,6 +2,19 @@
 
 I build full-stack applications using **Python, Django, JavaScript, SQL, and Docker**.  
 I'm currently seeking a **Junior Full-Stack Developer** role and an employer to continue my **Level 6 Digital Technology Solutions degree apprenticeship**.
+I have a strong interest in using technology to make a positive impact.
+
+My long-term goal is to work on projects that:
+- Improve accessibility and inclusivity in digital products
+- Support green technologies and renewable energy initiatives
+- Deliver practical tools that benefit local communities and small businesses
+
+I’m particularly interested in:
+- Accessible web applications
+- Ethical and sustainable software development
+- Projects that solve real problems rather than purely speculative ones
+
+If you’re working on something aligned with these values, I’m always open to collaborating.
 
 ## 🧰 Tech I Use
 **Languages:** Python, JavaScript, PHP, SQL  
